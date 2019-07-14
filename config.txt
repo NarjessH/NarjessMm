@@ -1,0 +1,6 @@
+﻿token= NTkzNTI1NzY3ODMzMzg3MDMw.XSrtaA.fu7o2kMic7l1XXD2SdMvvyS6gPA
+owner= 548285167593324545
+prefix= 3
+game= Hi
+stayinchannel=true
+songinstatus=false
