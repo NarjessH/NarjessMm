@@ -1,4 +1,4 @@
-﻿token= NTkzNTI1NzY3ODMzMzg3MDMw.XSrtaA.fu7o2kMic7l1XXD2SdMvvyS6gPA
+﻿token= NTk5OTk0NDE0MDUxMzYwNzY4.XStUuw.QiMTEDzh2jh34YrWRgptoMlYliI
 owner= 548285167593324545
 prefix= 3
 game= Hi
